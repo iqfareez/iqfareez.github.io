@@ -2,7 +2,7 @@
 
 Visit: http://portfolio.iqfareez.live
 
-Alternative: http://fareezmaple.github.io
+Alternative: http://iqfareez.github.io
 
 ## Template
 
