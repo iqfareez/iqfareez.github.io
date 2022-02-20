@@ -1,8 +1,6 @@
 # Portfolio website
 
-Visit: http://portfolio.iqfareez.live
-
-Alternative: http://iqfareez.github.io
+Visit: http://iqfareez.github.io
 
 ## Template
 
